@@ -17,11 +17,12 @@
 ---
 
 <p align="center">
-  <img src="./screenshots/Food-E-Screenshot1.png" width="30%" />
-  <img src="./screenshots/Food-E-Screenshot2.png" width="30%" />
+  <img src="./screenshots/Food-E-Screenshot1.png" style="max-width: 30%; width: auto" />
+  <img src="./screenshots/Food-E-Screenshot2.png" style="max-width: 30%; width: auto" />
 </p>
 
 ## Features
+
 - A Collection of more than 150 Food Additives
 - Search by additive name or E-number
 - Detailed info about each additive
@@ -34,4 +35,5 @@
     height="80">](https://github.com/SuhasDissa/Food-E-App/releases/latest)
 
 ## Translation
+
 [Crowdin Translate](https://crowdin.com/project/food-e-app)
